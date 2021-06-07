@@ -1,1 +1,1 @@
-# Housing amd Accessibility in the United States
+# Housing and Accessibility in the United States
