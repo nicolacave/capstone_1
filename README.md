@@ -12,7 +12,13 @@ _unit_id, _golden,	_unit_state,	_trusted_judgments,	_last_judgment_at,	house_typ
 ## Focus
 Focusing in on four main features(address, geo-coordinates, sidewalk_ok, sidewalk_ok_gold_reason), I was able to look at how housing accessibile housing varied among states, after parsing the address column to extract states.
 
-## Exploratory Data Analysis
+## Analysis
 In my exploration of the data, several patterns became apparent: 
 * accessible housing is most present urban areas
-* 
+* differnce in proportion of accessible housing between NY and CA
+## Further studies
+Further studies:
+Look at distance from major metropolitan center
+Cross reference with state infrastructure annual budget
+Compare across all states
+
